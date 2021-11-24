@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evanemon1
+- 👋 Hi, I’m @Md.Manzurul Alam
 - 👀 I’m interested in Machine learning,Data analysis,Data science
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Machine learning,Data analysis,Data science projects.
